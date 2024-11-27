@@ -81,3 +81,8 @@ class Clock extends React.Component {
   }
 }
 ```
+
+Day 3: 27/11/24
+
+Today,what I did on my personal project, was that I spent 2 hours on FreeCodeCamp React course.
+I worked on the tasks given to me by my team member for an Hackathon. So, today, I started working on the Login and Register route for what we're building.
