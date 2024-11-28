@@ -86,3 +86,9 @@ Day 3: 27/11/24
 
 Today,what I did on my personal project, was that I spent 2 hours on FreeCodeCamp React course.
 I worked on the tasks given to me by my team member for an Hackathon. So, today, I started working on the Login and Register route for what we're building.
+
+
+Day 4: 28/11/24
+
+Today, I setup the login page for my app. I handled the backend authentication as well.
+I read up on tailwindcss.
