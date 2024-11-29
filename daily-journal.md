@@ -92,3 +92,8 @@ Day 4: 28/11/24
 
 Today, I setup the login page for my app. I handled the backend authentication as well.
 I read up on tailwindcss.
+
+Day 5: 29/11/24
+
+Today, I setup database for the Hackathon application. 
+I connected the authentication endpoint
