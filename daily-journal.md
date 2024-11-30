@@ -97,3 +97,7 @@ Day 5: 29/11/24
 
 Today, I setup database for the Hackathon application. 
 I connected the authentication endpoint
+
+Day 6: 30/11/24
+
+Today, I created the entire database for the Hackathon app using Postgres PgAdmin. I worked on the connection with the API endpoint using postman. I added two more fields to the registration form.
