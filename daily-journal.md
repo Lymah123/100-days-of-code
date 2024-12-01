@@ -101,3 +101,8 @@ I connected the authentication endpoint
 Day 6: 30/11/24
 
 Today, I created the entire database for the Hackathon app using Postgres PgAdmin. I worked on the connection with the API endpoint using postman. I added two more fields to the registration form.
+
+Day 7: 01/12/24
+
+Today, I focused on my personal document vault project.
+I was able to test the API endpoint using cURL API client request; a command based API testing automation and tried Postman API client; a GUI API client request. I read about some other open source alternatives to these two. 
