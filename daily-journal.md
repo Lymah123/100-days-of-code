@@ -110,7 +110,7 @@ I was able to test the API endpoint using cURL API client request; a command bas
 Day 8: 02/12/24
 
 Today, 
-I setup the MongoDB(Database)  
-I connected the Backend to MongoDB
-I handled file upload functionality
-And I handle the integration of AWS S3 for secure storage
+- I set up the MongoDB(Database)  
+- I connected the Backend to MongoDB
+- I handled file upload functionality
+- And I handle the integration of AWS S3 for secure storage
