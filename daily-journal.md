@@ -106,3 +106,11 @@ Day 7: 01/12/24
 
 Today, I focused on my personal document vault project.
 I was able to test the API endpoint using cURL API client request; a command based API testing automation and tried Postman API client; a GUI API client request. I read about some other open source alternatives to these two. 
+
+Day 8: 02/12/24
+
+Today, 
+I setup the MongoDB(Database)  
+I connected the Backend to MongoDB
+I handled file upload functionality
+And I handle the integration of AWS S3 for secure storage
