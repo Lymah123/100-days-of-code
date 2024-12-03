@@ -114,3 +114,8 @@ Today,
 - I connected the Backend to MongoDB
 - I handled file upload functionality
 - And I handle the integration of AWS S3 for secure storage
+
+Day 9: 03/12/24
+
+Today, I worked on the app's front end. I set up the login page, register page, and dashboard.
+I spent a couple of hours on the FCC react course.
