@@ -119,3 +119,8 @@ Day 9: 03/12/24
 
 Today, I worked on the app's front end. I set up the login page, register page, and dashboard.
 I spent a couple of hours on the FCC react course.
+
+Day 10: 04/12/24
+
+I spent half of today debugging. I was able to figure out some 
+I spent a few hours on FCC React course
