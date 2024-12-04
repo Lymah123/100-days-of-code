@@ -122,5 +122,5 @@ I spent a couple of hours on the FCC react course.
 
 Day 10: 04/12/24
 
-I spent half of today debugging. I was able to figure out some 
-I spent a few hours on FCC React course
+- I spent half of today debugging. I was able to figure out some 
+- I spent a few hours on FCC React course
