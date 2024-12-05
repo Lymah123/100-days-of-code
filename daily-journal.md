@@ -124,3 +124,10 @@ Day 10: 04/12/24
 
 - I spent half of today debugging. I was able to figure out some 
 - I spent a few hours on FCC React course
+
+Day 11: 05/12/24
+
+- I was able to debug the error I have in the code.
+- I started setting up connections with Backend and frontend
+- I setup an account on AWS
+- I added a dark mode toggle to the app.
