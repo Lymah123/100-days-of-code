@@ -132,6 +132,6 @@ Day 11: 05/12/24
 - I setup an account on AWS
 - I added a dark mode toggle to the app.
 
-  Day 12: 06/12/24
+Day 12: 06/12/24
 
 Today, I faced challenges while trying to setup the billing on AWS in order to have access to S3. The issue was due to the NG debit card I was trying to use. It had me stuck for a while but I was able to find my way around it. So, in order to get the application running. I read up on alternatives. Which I finally opted for Docker. So, I started with the docker setup and I was able to get the docker running.  The next thing is to start with the Backend and frontend connection 
