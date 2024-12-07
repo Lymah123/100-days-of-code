@@ -135,3 +135,10 @@ Day 11: 05/12/24
 Day 12: 06/12/24
 
 Today, I faced challenges while trying to setup the billing on AWS in order to have access to S3. The issue was due to the NG debit card I was trying to use. It had me stuck for a while but I was able to find my way around it. So, in order to get the application running. I read up on alternatives. Which I finally opted for Docker. So, I started with the docker setup and I was able to get the docker running.  The next thing is to start with the Backend and frontend connection 
+
+Day 13: 07/12/24
+
+Today, 
+- I was troubleshooting issues related to AWS CLI configuration and environment setup.
+- I was able to setup AWS LocalStack to simulate AWS services like S3.
+-  I set up and tested the AWS CLI to interact with LocalStack's S3 emulation, including creating a bucket, uploading files, and running tests locally.
