@@ -142,3 +142,7 @@ Today,
 - I was troubleshooting issues related to AWS CLI configuration and environment setup.
 - I was able to setup AWS LocalStack to simulate AWS services like S3.
 -  I set up and tested the AWS CLI to interact with LocalStack's S3 emulation, including creating a bucket, uploading files, and running tests locally.
+
+  Day 14: 08/12/24
+  
+  I spent today learning React on FreeCodeCamp. I solved a couple of challenges on React and also learned about the Single-Responsibility Principle (SRP), i.e., that a component should ideally only do one thing.
