@@ -147,3 +147,10 @@ Today,
   
  -  I spent today learning React on FreeCodeCamp. I solved a couple of challenges on React and also learned about the Single-Responsibility Principle (SRP), i.e., that a component should ideally only do one thing.
  -  I published a blog post on my week two of #100DaysOfCode. The blog post was a highlight of the progress, challenges and what I was able to learn over the course of week 2 on this journey.
+
+Day 15: 09/12/24
+
+- I was able to implement encryption in the upload.js file using node.js by using built-in crypto module. This ensure that the document is encrypted locally before it is uploaded to S3.
+- I learned how to generate a strong secret key in node.js terminal, which I was able to use the generated token for the JWT secret
+- I did a lot of troubleshooting as well. 
+
