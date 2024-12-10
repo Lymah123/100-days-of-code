@@ -154,3 +154,9 @@ Day 15: 09/12/24
 - I learned how to generate a strong secret key in node.js terminal, which I was able to use the generated token for the JWT secret
 - I did a lot of troubleshooting as well. 
 
+Day 16: 10/12/24
+
+- I setup MongoDB for the application
+- I added more Routes(CRUD Operations) for the app.
+- I worked on the functionalities.
+- The app is getting ready. I can't wait to get to the deployment phase.
