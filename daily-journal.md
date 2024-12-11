@@ -160,3 +160,9 @@ Day 16: 10/12/24
 - I added more Routes(CRUD Operations) for the app.
 - I worked on the functionalities.
 - The app is getting ready. I can't wait to get to the deployment phase.
+
+Day 17: 11/12/24
+
+- I started implementing the backend API for document upload and encryption.
+- I did a lot of troubleshooting while trying to connect the docker container with the API.
+- I read two blogs on Docker with S3, for better understanding and easy debugging.
