@@ -166,3 +166,11 @@ Day 17: 11/12/24
 - I started implementing the backend API for document upload and encryption.
 - I did a lot of troubleshooting while trying to connect the docker container with the API.
 - I read two blogs on Docker with S3, for better understanding and easy debugging.
+
+Day 18: 12/12/24
+
+- I was able to find solution to the challenge I faced throughout yesterday.
+- I had the backend API for document upload and encryption running perfectly well
+- I setup user storage service for the app.
+- I integrated AWS S3 storage with MinIO using Docker
+  
