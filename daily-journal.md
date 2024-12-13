@@ -173,4 +173,9 @@ Day 18: 12/12/24
 - I had the backend API for document upload and encryption running perfectly well
 - I setup user storage service for the app.
 - I integrated AWS S3 storage with MinIO using Docker
-  
+
+  Day: 13/12/24
+
+  - I started working on the app dashboard.
+  - I worked with React and Tailwind
+  - I will probably be spending the weekend on the dashboard 
