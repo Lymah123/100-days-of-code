@@ -174,11 +174,11 @@ Day 18: 12/12/24
 - I setup user storage service for the app.
 - I integrated AWS S3 storage with MinIO using Docker
 
-  Day 19: 13/12/24
+Day 19: 13/12/24
 
-  - I started working on the app dashboard.
-  - I worked with React and Tailwind
-  - I will probably be spending the weekend on the dashboard
+- I started working on the app dashboard.
+- I worked with React and Tailwind
+- I will probably be spending the weekend on the dashboard.
  
 Day 20: 14/12/24
 
