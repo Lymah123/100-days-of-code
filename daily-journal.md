@@ -178,4 +178,12 @@ Day 18: 12/12/24
 
   - I started working on the app dashboard.
   - I worked with React and Tailwind
-  - I will probably be spending the weekend on the dashboard 
+  - I will probably be spending the weekend on the dashboard
+ 
+Day 20: 14/12/24
+
+- I started updating dashboard features
+- I worked on the document overview
+- I worked on the document uploading area
+- I worked on search and tagging sections
+- I worked on security indicators
