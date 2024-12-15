@@ -188,10 +188,10 @@ Day 20: 14/12/24
 - I worked on search and tagging sections
 - I worked on security indicators
 
-  Day 21: 15/12/24
+Day 21: 15/12/24
 
-  - I read about heroicons as a popular React and Tailwind CSS library.
-  - I learned the key differences between solid and outline icons and when to use either of these two
-  - I also learned about Mini and Micro heroicons.
-  - I completed the dashboard. I want to add the Dark and light mode functionality. I started with it but not working as I expected yet, I will be doing some troubleshooting on that.
-  - I wrote and published a blog post on week 3 of this #100DaysOfCode journey. 
+- I read about heroicons as a popular React and Tailwind CSS library.
+- I learned the key differences between solid and outline icons and when to use either of these two
+- I also learned about Mini and Micro heroicons.
+- I completed the dashboard. I want to add the Dark and light mode functionality. I started with it but not working as I expected yet, I will be doing some troubleshooting on that.
+- I wrote and published a blog post on week 3 of this #100DaysOfCode journey. 
