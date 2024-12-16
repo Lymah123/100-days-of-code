@@ -195,3 +195,9 @@ Day 21: 15/12/24
 - I also learned about Mini and Micro heroicons.
 - I completed the dashboard. I want to add the Dark and light mode functionality. I started with it but not working as I expected yet, I will be doing some troubleshooting on that.
 - I wrote and published a blog post on week 3 of this #100DaysOfCode journey. 
+
+Day 22: 16/12/24
+
+- I added dark mode feature on the app frontend
+- I setup backend APIs for organizing documents with S3 integration
+- I started with the backend APIs for deleting documents with the S3 integration
