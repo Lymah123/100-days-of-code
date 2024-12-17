@@ -57,4 +57,18 @@ backend/
 ├── .env                  # Environment variables (AWS, MongoDB, JWT keys)
 ├── server.js             # Main server entry point
 
-
+## Frontend Plan
+### Folder structure
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   ├── Dashboard/
+│   │   ├── DocumentUpload/
+│   │   ├── Search/
+│   ├── pages/
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   │   ├── Dashboard.js
+│   ├── utils/
+│   │   ├── api.js # Axios API functions
