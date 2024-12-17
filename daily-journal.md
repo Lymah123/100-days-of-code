@@ -201,3 +201,9 @@ Day 22: 16/12/24
 - I added dark mode feature on the app frontend
 - I setup backend APIs for organizing documents with S3 integration
 - I started with the backend APIs for deleting documents with the S3 integration
+
+Day 23: 17/12/24
+
+- I added frontend hooks to call the backend for file uploads and manage encrypted file viewing
+- Did some troubleshooting/debugging
+  
