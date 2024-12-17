@@ -72,3 +72,23 @@ frontend/
 │   │   ├── Dashboard.js
 │   ├── utils/
 │   │   ├── api.js # Axios API functions
+
+
+### Frontend Key Features
+Authentication:
+
+Store JWT in local storage or cookies.
+Redirect unauthorized users to login.
+Upload Documents:
+
+Create a React component with a file input and metadata fields (tags, file name).
+Use Axios to send the file to /api/upload.
+Search and Organize:
+
+Create a search bar to filter documents by metadata.
+Display documents in a user-friendly dashboard.
+Next Steps
+Set up backend authentication and routes.
+Integrate document upload with encryption and S3 storage.
+Build React components for authentication, upload, and dashboard.
+Implement search and tagging.
