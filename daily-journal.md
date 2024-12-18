@@ -207,3 +207,7 @@ Day 23: 17/12/24
 - I added frontend hooks to call the backend for file uploads and manage encrypted file viewing
 - Did some troubleshooting/debugging
   
+Day 24: 18/12/24
+
+- Added error handling for failed file uploads, authentication failures, etc.
+- Implemented search functionality in the frontend to filter documents based on tags or names.
