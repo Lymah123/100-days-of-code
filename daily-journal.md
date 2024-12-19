@@ -211,3 +211,9 @@ Day 24: 18/12/24
 
 - Added error handling for failed file uploads, authentication failures, etc.
 - Implemented search functionality in the frontend to filter documents based on tags or names.
+
+Day 25: 19/12/24
+
+- I added a complete password reset flow with email verification
+- I added email verification for document actions
+- Implemented secure API endpoints for all operations
