@@ -217,3 +217,9 @@ Day 25: 19/12/24
 - I added a complete password reset flow with email verification
 - I added email verification for document actions
 - Implemented secure API endpoints for all operations
+
+Day 26: 20/12/24
+
+- I did some fine-tuning on the app dashboard
+- I started with the testing
+- Spent a couple of hours on debugging
