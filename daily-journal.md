@@ -223,3 +223,8 @@ Day 26: 20/12/24
 - I did some fine-tuning on the app dashboard
 - I started with the testing
 - Spent a couple of hours on debugging
+
+Day 27: 21/12/24
+
+- Preparing for an interview
+- I worked on the Docker part of the project and did some troubleshooting(uninstalling and reinstalling)
