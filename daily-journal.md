@@ -226,7 +226,7 @@ Day 26: 20/12/24
 
 Day 27: 21/12/24
 
-- Preparing for an interview
+- Preparing for an interview (The interviewer didn't show up. I waited more than 1 hr)
 - I worked on the Docker part of the project and did some troubleshooting(uninstalling and reinstalling)
 
 Day 28: 22/12/24
