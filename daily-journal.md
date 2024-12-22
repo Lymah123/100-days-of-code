@@ -228,3 +228,11 @@ Day 27: 21/12/24
 
 - Preparing for an interview
 - I worked on the Docker part of the project and did some troubleshooting(uninstalling and reinstalling)
+
+  Day 28: 22/12/24
+
+  - I added a feature for deployment(devcontainer) using open source platform known as Daytonai to the URL shortened app
+  - I setup a comprehensive documentation for the repository
+  - I wrote an article on the app
+  - I submitted the project for an Open Source Hackathon
+  - I wrote another article on Week four #100DaysOfCode
