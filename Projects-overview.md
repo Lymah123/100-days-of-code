@@ -1,6 +1,6 @@
 # Project 1: PERSONAL DOCUMENT VAULT
 
-## A personal document vault with encryption project
+## A personal document vault with an encryption project
 
 ## Project Overview
 Objective: Build a secure document vault where users can upload, organize, search, and delete documents. All documents must be encrypted before being stored in AWS S3, and users must authenticate to access their files. Use React for the frontend, Node.js with MongoDB for the backend, Crypto.js for encryption, and AWS S3 for storage.
@@ -9,7 +9,7 @@ Feature Breakdown
 1. User Authentication and Access Control
 Purpose: Ensure only authorized users can access the system.
 Implementation:
-Backend: Use bcrypt for password hashing and jsonwebtoken for user sessions.
+Backend: Use bcrypt for password hashing and JSON web token for user sessions.
 Frontend: React for login/signup forms and session handling (via cookies/local storage).
 2. Upload Documents
 Purpose: Allow users to upload files to AWS S3 securely.
