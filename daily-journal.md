@@ -236,3 +236,9 @@ Day 28: 22/12/24
 - I wrote an article on the app
 - I submitted the project for an Open Source Hackathon
 - I wrote another article on Week four #100DaysOfCode
+
+Day 29: 23/12/24
+
+- I setup password reset section for the app
+- I implemented email notification for document upload and deletion
+- I integrated forgot password section on frontend to the backend
