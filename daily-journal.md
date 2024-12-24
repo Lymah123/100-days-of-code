@@ -242,3 +242,9 @@ Day 29: 23/12/24
 - I setup password reset section for the app
 - I implemented email notification for document upload and deletion
 - I integrated forgot password section on frontend to the backend
+
+Day 30: 24/12/24
+
+- I was able to complete the frontend part of the app.
+- I did all the frontend and Backend integrations. Everything is working perfectly fine
+- I only need to carryout couple of testing before deployment.
