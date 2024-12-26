@@ -252,3 +252,8 @@ Day 30: 24/12/24
 Day 31: 25/12/24
 
 I didn't do much today. The Project I submitted for an open source Hackathon got accepted. I received some suggestions which I worked on throughout the night. I spent the rest of the day resting.
+
+Day 32: 26/12/24
+
+- I implemented SSL certification setup on the Backend for the app.
+- I finally started testing the application.
