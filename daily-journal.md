@@ -255,5 +255,10 @@ I didn't do much today. The Project I submitted for an open source Hackathon got
 
 Day 32: 26/12/24
 
-- I implemented SSL certification setup on the Backend for the app.
+- I implemented OpenSSL certification setup on the Backend for the app.
 - I finally started testing the application.
+
+Day 33: 27/12/24
+
+- I implemented rate limiter in order to protect all routes from excessive  request
+- I continue with testing and a lot of debugging.
