@@ -6,7 +6,7 @@ I completed a module in the Meta backend development specialization.
 Day 2: 26/11/24
 
 Today, I started working on the frontend part of the project. 
-I spent a couple of hours on the official documentation of React.
+I spent a couple of hours on React's official documentation.
 
 ### Basic Concepts of React
 
