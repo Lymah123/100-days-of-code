@@ -268,3 +268,8 @@ Day 34: 28/12/24
 - I continue with the testing
 - I set up the Rancher desktop with the S3 for data storage using a Docker container.
   
+Day 35: 29/12/24
+
+- I was able to fixed docker-rancher issues.
+- I spent half of the day on FreeCodeCamp React course.
+- I published a blog post on week 5 recap.
