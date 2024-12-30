@@ -273,3 +273,10 @@ Day 35: 29/12/24
 - I was able to fixed docker-rancher issues.
 - I spent half of the day on FreeCodeCamp React course.
 - I published a blog post on week 5 recap.
+
+Day 36: 30/12/24
+
+- I worked on the app readme
+- I completed the tests.
+- I pushed it to GitHub and deployed it on Vercel
+- I applied for an MLH fellowship.
