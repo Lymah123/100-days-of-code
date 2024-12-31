@@ -280,3 +280,8 @@ Day 36: 30/12/24
 - I completed the tests.
 - I pushed it to GitHub and deployed it on Vercel
 - I applied for an MLH fellowship.
+
+Day 37: 31/12/24
+
+- I started working on a GitHub issue.
+- I sourced resources for learning the Golang.
