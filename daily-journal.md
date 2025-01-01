@@ -231,23 +231,23 @@ Day 27: 21/12/24
 
 Day 28: 22/12/24
 
-- I added a feature for deployment(devcontainer) using open source platform known as Daytonai to the URL shortened app
-- I setup a comprehensive documentation for the repository
+- I added a feature for deployment(dev container) using open open-source platform known as Daytonai to the URL-shortened app
+- I set up comprehensive documentation for the repository
 - I wrote an article on the app
 - I submitted the project for an Open Source Hackathon
 - I wrote another article on Week four #100DaysOfCode
 
 Day 29: 23/12/24
 
-- I setup password reset section for the app
-- I implemented email notification for document upload and deletion
-- I integrated forgot password section on frontend to the backend
+- I set the password reset section for the app
+- I implemented email notifications for document upload and deletion
+- I integrated forgot password section on the frontend to the backend
 
 Day 30: 24/12/24
 
 - I was able to complete the frontend part of the app.
 - I did all the frontend and Backend integrations. Everything is working perfectly fine
-- I only need to carryout couple of testing before deployment.
+- I only need to carry out a couple of tests before deployment.
 
 Day 31: 25/12/24
 
