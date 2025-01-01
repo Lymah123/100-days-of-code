@@ -285,3 +285,9 @@ Day 37: 31/12/24
 
 - I started working on a GitHub issue.
 - I sourced resources for learning the Golang.
+
+Day 38: 01/01/25
+
+- I worked on the Bitcoin test challenge repository. I made changes and worked on the failing tests.
+- I learned how to use Visual Studio Developer Building tools.
+  
