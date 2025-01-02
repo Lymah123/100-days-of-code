@@ -291,3 +291,8 @@ Day 38: 01/01/25
 - I worked on the Bitcoin test challenge repository. I made changes and worked on the failing tests.
 - I learned how to use Visual Studio Developer Building tools.
   
+Day 39: 02/01/25
+
+- I started learning Golang by exploring the official Go documentation.
+- I had a meeting with a GitHub product team member about my experience using GitHub Co-pilot. (Sadly, the network did me dirty)
+- I built a small app for blog reading streak which I am planning on integrated to my GitHub Readme profile.
