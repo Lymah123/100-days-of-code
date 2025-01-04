@@ -297,9 +297,14 @@ Day 39: 02/01/25
 - I had a meeting with a GitHub product team member about my experience using GitHub Co-pilot. (Sadly, the network did me dirty)
 - I built a small app for blog reading streak which I am planning on integrated to my GitHub Readme profile.
 
-Day 40: 03/01/24
+Day 40: 03/01/25
 
 - I wrote some functions in Golang programming language today. I learned more about compiler and runtime errors.
 - I learned when to use naked returns and when to use named returns
 - I also learned the Guard clause and how it provides a linear approach to logic trees.
 - I am currently Reading "Ultralearning by SCOTT H. YOUNG", and I am trying to implement what I am learning in the book to approach this new programming language I am learning and see the changes. 
+
+Day 41: 04/01/25
+
+I worked on the Leetcode question (two sums). My approach was to write down my thought process on paper and implement it in VS Code. I transferred the solution to Leetcode and submitted it after all the test cases passed.
+I started with the draft for week 6 of the #100DaysOfCode blog post, which I will publish tomorrow.
