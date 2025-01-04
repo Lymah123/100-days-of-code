@@ -306,5 +306,5 @@ Day 40: 03/01/25
 
 Day 41: 04/01/25
 
-I worked on the Leetcode question (two sums). My approach was to write down my thought process on paper and implement it in VS Code. I transferred the solution to Leetcode and submitted it after all the test cases passed.
-I started with the draft for week 6 of the #100DaysOfCode blog post, which I will publish tomorrow.
+- I worked on the Leetcode question (two sums). My approach was to write down my thought process on paper and implement it in VS Code. I transferred the solution to Leetcode and submitted it after all the test cases passed.
+- I started with the draft for week 6 of the #100DaysOfCode blog post, which I will publish tomorrow.
