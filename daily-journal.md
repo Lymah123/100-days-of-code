@@ -313,3 +313,8 @@ Day 42: 05/01/25
 
 - I worked on a leet code question (Merge sorted array)
 - I published the week 6 recap of the #100DaysOfCode blog post.
+
+Day 43: 06/01/25
+
+- I continue with my learning on Go programming language.
+- Today, I learned about structs, interfaces and switches
