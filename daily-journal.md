@@ -231,7 +231,7 @@ Day 27: 21/12/24
 
 Day 28: 22/12/24
 
-- I added a feature for deployment(dev container) using open open-source platform known as Daytonai to the URL-shortened app
+- I added a feature for deployment(dev container) using an open-source platform known as Daytonai to the URL-shortened app
 - I set up comprehensive documentation for the repository
 - I wrote an article on the app
 - I submitted the project for an Open Source Hackathon
