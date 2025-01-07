@@ -322,7 +322,7 @@ Day 43: 06/01/25
 
 Day 44: 07/01/25
 
-- On the Go programming language, I was able to learn;
+- Today, on the Go programming language, I was able to learn;
 - errors, formatting, fizz buzz, and slices.
 - I check the official documentation for more understanding
 - I was able to try out some exercises on each topic.
