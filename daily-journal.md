@@ -326,3 +326,8 @@ Day 44: 07/01/25
 - errors, formatting, fizz buzz, and slices.
 - I check the official documentation for more understanding
 - I was able to try out some exercises on each topic.
+
+Day 45: 08/01/25
+
+- Today, I learned about mutations, maps and advanced functions in Go
+- I practiced exercises on those topics.
