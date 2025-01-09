@@ -329,5 +329,12 @@ Day 44: 07/01/25
 
 Day 45: 08/01/25
 
-- Today, I learned about mutations, maps and advanced functions in Go
+- Today, I learned about mutations, maps, and advanced functions in Go
 - I practiced exercises on those topics.
+
+Day 46: 09/01/25
+
+Today, 
+- I delve deep into advanced functions in the Go programming language, such as higher-order functions, first-class functions, anonymous functions, currying, defer, closures, and pointers.
+- I practiced a few problems on each of the topics.
+  
