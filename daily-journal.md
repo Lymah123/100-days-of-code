@@ -316,7 +316,7 @@ Day 42: 05/01/25
 
 Day 43: 06/01/25
 
-- I continue with my learning of the Go programming language.
+- I continue learning the Go programming language.
 - Today, I learned about structs, interfaces and switches
 - 
 
