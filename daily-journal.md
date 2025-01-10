@@ -338,3 +338,10 @@ Today,
 - I delve deep into advanced functions in the Go programming language, such as higher-order functions, first-class functions, anonymous functions, currying, defer, closures, and pointers.
 - I practiced a few problems on each of the topics.
   
+Day 47: 10/01/24
+
+- I learned channels, mutex, and generic in Go programming language.
+- I practiced problems on the topics.
+Based on the resources I am using and the roadmap I created for learning this programming language, I can say I have been able to cover the basics of the Go programming language. The rest of my learning will be project-based.
+- Next thing, I will work on 3 projects for now on GO, which are, basic, medium and advance.
+- The weekend(Sat & Sun) for leetcode, however I will also research on the project to work on this weekend and start with by Mon.
