@@ -346,7 +346,7 @@ Based on the resources I am using and the roadmap I created for learning this pr
 - Next thing, I will work on 3 projects for now on GO, which are, basic, medium and advance.
 - The weekend(Sat & Sun) for leetcode, however I will also research on the project to work on this weekend and start with by Mon.
 
-  Day 48: 11/01/24
+Day 48: 11/01/24
 
-  - I solved "remove element" problem on leetcode.
-  - I wrote and published a blog post on my 2024 review.
+- I solved "remove element" problem on leetcode.
+- I wrote and published a blog post on my 2024 review.
