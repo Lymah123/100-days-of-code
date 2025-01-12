@@ -350,3 +350,10 @@ Day 48: 11/01/24
 
 - I solved "remove element" problem on leetcode.
 - I wrote and published a blog post on my 2024 review.
+
+  Day 49: 12/01/25
+
+  - I worked on leetcode problem"Remove duplicate from sorted array"
+  - I published a blog post on week 7 of #100DaysOfCode
+ 
+    
