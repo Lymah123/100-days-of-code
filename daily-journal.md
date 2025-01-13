@@ -356,4 +356,7 @@ Day 49: 12/01/25
 - I worked on leetcode problem"Remove duplicate from sorted array"
 - I published a blog post on week 7 of #100DaysOfCode
  
-    
+
+Day 50: 13/01/25
+
+- I started working on a new project "expense tracker" using Golang. I will be applying what I have learned so far on Go and learn new concepts on the project. 
