@@ -360,3 +360,8 @@ Day 49: 12/01/25
 Day 50: 13/01/25
 
 - I started working on a new project "expense tracker" using Golang. I will be applying what I have learned so far on Go and learn new concepts on the project. 
+
+Day 51: 14/01/25
+
+- I continue working on the expense tracker.
+- I did troubleshooting and I read up on Database connections in Go.
