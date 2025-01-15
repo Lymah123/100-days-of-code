@@ -365,3 +365,8 @@ Day 51: 14/01/25
 
 - I continue working on the expense tracker.
 - I did troubleshooting and I read up on Database connections in Go.
+
+Day 52: 15/01/25
+
+- I hopped on a challenge where I have 24hrs to build an app using GitHub Copilot and write a blog post about it.
+- I built a dynamic habit tracker app within 18 hours with detailed documentation on the app, published a blog post about the app and turned in my submission.
