@@ -370,3 +370,7 @@ Day 52: 15/01/25
 
 - I hopped on a challenge where I have 24hrs to build an app using GitHub Copilot and write a blog post about it.
 - I built a dynamic habit tracker app within 18 hours with detailed documentation on the app, published a blog post about the app and turned in my submission.
+
+Day 53: 16/01/25
+
+- Today,  I continued working on the expense tracker app with Go.
