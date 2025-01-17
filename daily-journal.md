@@ -374,3 +374,7 @@ Day 52: 15/01/25
 Day 53: 16/01/25
 
 - Today,  I continued working on the expense tracker app with Go.
+
+Day 54: 17/01/25
+
+- I continued working on the app and I spent most of the day debugging and reading documentation
