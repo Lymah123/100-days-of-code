@@ -377,4 +377,9 @@ Day 53: 16/01/25
 
 Day 54: 17/01/25
 
-- I continued working on the app and I spent most of the day debugging and reading documentation
+- I continued working on the app and I spent most of the day debugging and reading the documentation
+
+Day 55: 18/01/24
+
+- I worked on leetcode problem question 80 on Array(Remove Duplicates from Sorted Array II)
+- I spent some times reading a couple of chapter on a programming book
