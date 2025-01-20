@@ -389,3 +389,7 @@ Day 56: 19/01/25
 - I worked on the leetcode problem question 169 on the array(Majority element).
 - I published a recap blog post for week 8 of #100DaysOfCode
   
+Day 57: 20/01/25
+
+- I was able to add two extra features to the app.
+- I read more about URL Parsing and JSON in GO
