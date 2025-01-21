@@ -393,3 +393,7 @@ Day 57: 20/01/25
 
 - I was able to add two extra features to the app.
 - I read more about URL Parsing and JSON in GO
+
+Day 58: 21/01/25
+
+- Today, I didn't have achieved much. As I was finding the solution to one bug, I was facing another bug. I am still finding my way around it till now. One of those frustrating days but I learned some new concepts while solving the problems.
