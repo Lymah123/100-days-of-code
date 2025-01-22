@@ -397,3 +397,8 @@ Day 57: 20/01/25
 Day 58: 21/01/25
 
 - Today, I didn't have achieved much. As I was finding the solution to one bug, I was facing another bug. I am still finding my way around it till now. One of those frustrating days but I learned some new concepts while solving the problems.
+
+Day 59: 22/01/25
+
+- I fixed the bug I that had me stuck yesterday. The application is working fine now for the command line interface 
+- I have started implementing the live web application feature. Already added ths necessary dependencies.
