@@ -402,3 +402,7 @@ Day 59: 22/01/25
 
 - I fixed the bug I that had me stuck yesterday. The application is working fine now for the command line interface 
 - I have started implementing the live web application feature. Already added ths necessary dependencies.
+
+Day 60: 23/01/25
+
+- I added the HTML and CSS pages to the app. It remains JS for the app's interactivity. I am trying different features that are simple and functional. I should be done with the app this week.
