@@ -407,3 +407,7 @@ Day 60: 23/01/25
 
 - I added the HTML and CSS pages to the app. It remains JS for the app's interactivity. I am trying different features that are simple and functional. I should be done with the app this week.
 - I also read extensively on panic in Go. I faced some panic while testing the app. I learned more about understanding and preventing panic in Go
+
+Day 61: 24/01/25
+
+I implemented on some essential security measures for the app, which are user authentication,  password hashing,  http implementation,  sql injection prevention, and CSRF protection 
