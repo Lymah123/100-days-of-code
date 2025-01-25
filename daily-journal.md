@@ -411,3 +411,8 @@ Day 60: 23/01/25
 Day 61: 24/01/25
 
 I implemented on some essential security measures for the app, which are user authentication,  password hashing,  http implementation,  sql injection prevention, and CSRF protection 
+
+Day 62: 25/01/25
+
+- I solved a question on leetcode ( Rotate Array)
+- I studied a few pages in a book, cracking the coding interview.
