@@ -420,5 +420,5 @@ Day 62: 25/01/25
 Day 63 : 26/01/25
 
 - I solved a problem on LeetCode (Best time to buy and sell stock)
-- Publish a blog post on recap of my #100DaysOfCode
-- Read a few pages on the book cracking the code interview
+- Publish a blog post on the recap of week 9 of my #100DaysOfCode 
+- Read a few pages on the book Cracking the Coding interview
