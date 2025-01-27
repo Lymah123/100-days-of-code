@@ -422,3 +422,8 @@ Day 63 : 26/01/25
 - I solved a problem on LeetCode (Best time to buy and sell stock)
 - Publish a blog post on the recap of week 9 of my #100DaysOfCode 
 - Read a few pages on the book Cracking the Coding interview
+
+Day 64: 27/01/25
+
+- I resumed back to working on the expense tracker app in Go. I started adding more features for enhancements. I worked on some HTML pages, including their CSS and JS.
+- I will work on the mobile app version once I am done with the web app.
