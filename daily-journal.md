@@ -427,3 +427,9 @@ Day 64: 27/01/25
 
 - I resumed back to working on the expense tracker app in Go. I started adding more features for enhancements. I worked on some HTML pages, including their CSS and JS.
 - I will work on the mobile app version once I am done with the web app.
+
+Day 65: 28/01/25
+
+- I worked on the API handling on the backend.
+-  I ensured that the API handlers interact with the SQLite database to fetch real-time data.
+- I replaced hardcoded data with dynamic data fetching from the database, ensuring that the data displayed on the dashboard is up-to-date and accurate.
