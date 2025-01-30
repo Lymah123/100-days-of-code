@@ -442,4 +442,8 @@ Today, I started working on these enhanced features for the expense-tracker app:
 - recurring expense automation 
 - receipt image upload and storage
 - multiple currency support 
-- Export functionality to CSV/PDF/Excel spreadsheet 
+- Export functionality to CSV/PDF/Excel spreadsheet
+
+  Day 67: 30/01/25
+
+  Today, I stuck on troubleshooting on some the recently added features.
