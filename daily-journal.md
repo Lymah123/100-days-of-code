@@ -444,6 +444,6 @@ Today, I started working on these enhanced features for the expense-tracker app:
 - multiple currency support 
 - Export functionality to CSV/PDF/Excel spreadsheet
 
-  Day 67: 30/01/25
+Day 67: 30/01/25
 
-  Today, I stuck on troubleshooting on some the recently added features.
+Today, I stuck on troubleshooting some of the recently added features.
