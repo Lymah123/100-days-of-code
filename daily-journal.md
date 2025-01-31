@@ -432,7 +432,7 @@ Day 64: 27/01/25
 Day 65: 28/01/25
 
 - I worked on the API handling on the backend.
--  I ensured that the API handlers interact with the SQLite database to fetch real-time data.
+-  I ensured that the API handlers interacted with the SQLite database to fetch real-time data.
 - I replaced hardcoded data with dynamic data fetching from the database, ensuring that the data displayed on the dashboard is up-to-date and accurate.
 
 Day 66: 29/01/25
@@ -446,4 +446,9 @@ Today, I started working on these enhanced features for the expense-tracker app:
 
 Day 67: 30/01/25
 
-Today, I stuck on troubleshooting some of the recently added features.
+Today, I got stuck troubleshooting some of the recently added features.
+
+Day 68:n 31/01/25
+
+- I was able to troubleshoot the bug I had yesterday. The newly added features are now functioning well. 
+- I continue with the next advanced features, which include recurring expense automation and receipt image upload
