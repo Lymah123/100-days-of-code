@@ -456,4 +456,4 @@ Day 68: 31/01/25
 Day 69: 01/02/25
 
 - I solved a problem from the top 150 interviews LeetCode (Best time to buy and sell stock II).
-- I read a couple of pages on the book title "Cracking the Coding Interview"
+- I read a couple of pages on the book titled "Cracking the Coding Interview".
