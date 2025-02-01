@@ -448,7 +448,12 @@ Day 67: 30/01/25
 
 Today, I got stuck troubleshooting some of the recently added features.
 
-Day 68:n 31/01/25
+Day 68: 31/01/25
 
 - I was able to troubleshoot the bug I had yesterday. The newly added features are now functioning well. 
 - I continue with the next advanced features, which include recurring expense automation and receipt image upload
+
+Day 69: 01/02/25
+
+- I solved a problem from the top 150 interviews LeetCode (Best time to buy and sell stock II).
+- I read a couple of pages on the book title "Cracking the Coding Interview"
