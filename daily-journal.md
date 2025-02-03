@@ -458,8 +458,14 @@ Day 69: 01/02/25
 - I solved a problem from the top 150 interviews LeetCode (Best time to buy and sell stock II).
 - I read a couple of pages of the book titled "Cracking the Coding Interview".
 
-Dayv70: 02/02/25
+Day 70: 02/02/25
 
 - I solved LeetCode problem(Jump Game)
 - I studied a few pages in the book Cracking the Coding  Interview.
 - I published a recap blog post on week 10 of #100DaysOfCode
+
+Day 71: 03/02/25
+Today, I focused on recurring expenses feature: 
+- Created scheduler to process recurring expenses
+- Added UI for managing recurring expenses 
+- Implemented notification for upcoming recurring expenses 
