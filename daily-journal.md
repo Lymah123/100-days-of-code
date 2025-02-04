@@ -473,5 +473,5 @@ Today, I focused on recurring expenses feature:
 Day 72: 04/02/25
 
 I worked on the following features:
-- email notifications for budget alerts using sendgrid api
+- Email notifications for budget alerts using sendgrid api
 - Dark light theme toggle
