@@ -469,3 +469,9 @@ Today, I focused on recurring expenses feature:
 - Created scheduler to process recurring expenses
 - Added UI for managing recurring expenses 
 - Implemented notification for upcoming recurring expenses 
+
+Day 72: 04/02/25
+
+I worked on the following features:
+- email notifications for budget alerts using sendgrid api
+- Dark light theme toggle
