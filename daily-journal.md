@@ -475,3 +475,11 @@ Day 72: 04/02/25
 I worked on the following features:
 - Email notifications for budget alerts using sendgrid api
 - Dark light theme toggle
+
+Say 73: 05/02/25
+
+Today, I worked on the following features:
+- I added custom expense categories 
+- Searching and filtering capabilities 
+- Bulk expense entry/editing 
+
