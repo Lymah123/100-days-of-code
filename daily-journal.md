@@ -488,3 +488,9 @@ Day 74: 06/02/25
 - I added two factor authentication
 - I implemented data backup functionality
 - I also implemented expense validation rules
+
+Day 75: 07/02/25
+
+- I implemented user roles and permissions
+- API endpoints for third-party integrations were also implemented.
+- For now, all the features I can think of for the expense-tracker app have been implemented. I will start fine-tuning the app. Followed by testing and finally deployment.
