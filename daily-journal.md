@@ -494,3 +494,9 @@ Day 75: 07/02/25
 - I implemented user roles and permissions
 - API endpoints for third-party integrations were also implemented.
 - For now, all the features I can think of for the expense-tracker app have been implemented. I will start fine-tuning the app. Followed by testing and finally deployment.
+
+
+Day 76: 08/02/25
+
+- I solved LeetCode problem set 145(Jump Game II) from Top 150 Interview.
+- I read a few pages from the book Cracking The Coding Interview.
