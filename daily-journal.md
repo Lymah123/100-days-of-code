@@ -500,3 +500,8 @@ Day 76: 08/02/25
 
 - I solved LeetCode problem set 145(Jump Game II) from Top 150 Interview.
 - I read a few pages from the book Cracking The Coding Interview.
+
+Day 77: 09/02/25
+
+- I solved LeetCode problem set 274(h-index) from top 150 interview.
+- I published a recap blog post on the week 11 of #100DaysOfCode.
