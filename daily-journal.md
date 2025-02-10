@@ -504,7 +504,7 @@ Day 76: 08/02/25
 Day 77: 09/02/25
 
 - I solved LeetCode problem set 274(h-index) from top 150 interview.
-- I published a recap blog post on the week 11 of #100DaysOfCode.
+- I published a recap blog post on week 11 of #100DaysOfCode.
 
 Day 78: 10/02/25
 
