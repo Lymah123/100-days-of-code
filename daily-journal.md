@@ -505,3 +505,8 @@ Day 77: 09/02/25
 
 - I solved LeetCode problem set 274(h-index) from top 150 interview.
 - I published a recap blog post on the week 11 of #100DaysOfCode.
+
+Day 78: 10/02/25
+
+- I started fine-tuning the app. I spent about 5 hours debugging but I fixed the bug. It is the win for today.
+- I added a footer section as well.
