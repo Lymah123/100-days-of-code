@@ -510,3 +510,8 @@ Day 78: 10/02/25
 
 - I started fine-tuning the app. I spent about 5 hours debugging but I fixed the bug. It is the win for today.
 - I added a footer section as well.
+
+Day 79: 10/02/25
+
+- I worked on integrating Firebase for the app for receipts storage.
+- user uploads receipts, the frontend sends the file to the backend and the backend sends the uploaded files to the Firebase Storage
