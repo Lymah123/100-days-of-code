@@ -515,3 +515,8 @@ Day 79: 11/02/25
 
 - I worked on integrating Firebase for the app for receipts storage.
 - The workflow: user uploads receipts, the frontend sends the file to the backend and the backend sends the uploaded files to the Firebase Storage
+
+Day 80: 12/02/25
+
+- I worked on report generation on the backend.
+- I enhanced the API handlers part
