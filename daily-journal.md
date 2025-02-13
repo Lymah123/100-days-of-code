@@ -520,3 +520,10 @@ Day 80: 12/02/25
 
 - I worked on report generation on the backend.
 - I enhanced the API handlers part.
+
+Day 81: 13/02/25
+
+- I implemented Firebase auth setup
+- I added user registration and login
+- I implemented authentication middleware
+- I also worked on API routes
