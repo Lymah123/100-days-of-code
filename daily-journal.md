@@ -527,3 +527,7 @@ Day 81: 13/02/25
 - I added user registration and login
 - I implemented authentication middleware
 - I also worked on API routes
+
+Day 82: 14/02/25
+
+Today, while testing the app, I found out that the form submission for the report is working but the report generation is not behaving as expected. I realized the issue is related to the form handling on the server side. After some troubleshooting, it worked and is now working as expected.
