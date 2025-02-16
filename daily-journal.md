@@ -535,5 +535,10 @@ Today, while testing the app, I found out that the form submission for the repor
 
 Day 83: 15/02/25
 
-- I solved leet code questions(Insert delete get random)
-- I stared learning the fundamentals of DSA
+- I solved LeetCode questions(Insert delete get random)
+- I started learning the fundamentals of DSA
+
+Day 84: 16/02/25
+
+- I solved LeetCode problem(Product of array except self)
+- Published a blog post on week 12 recap for #100DaysOfCode
