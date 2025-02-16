@@ -535,5 +535,5 @@ Today, while testing the app, I found out that the form submission for the repor
 
 Day 83: 15/02/25
 
-- I solved leetcode questions(Insert delete getrandom)
-- I stared learning fundamentals of DSA
+- I solved leet code questions(Insert delete get random)
+- I stared learning the fundamentals of DSA
