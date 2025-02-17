@@ -542,3 +542,11 @@ Day 84: 16/02/25
 
 - I solved LeetCode problem(Product of array except self)
 - Published a blog post on week 12 recap for #100DaysOfCode
+
+Day 85: 17/02/25
+
+I worked on:
+- User Registration: Creates a user using Firebase Admin SDK and logs them in automatically.
+- User Login: Authenticates with Firebase REST API and returns a valid ID token.
+- Secure Firebase API Key Handling: Uses environment variables for security.
+- Middleware for Protected Routes: Verifies Firebase tokens before allowing access.
