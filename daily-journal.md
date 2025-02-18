@@ -550,3 +550,7 @@ I worked on:
 - User Login: Authenticates with Firebase REST API and returns a valid ID token.
 - Secure Firebase API Key Handling: Uses environment variables for security.
 - Middleware for Protected Routes: Verifies Firebase tokens before allowing access.
+
+Day 86: 18/02/25
+
+I had issues with the receipts section so I worked on both the backend and the frontend of it.
