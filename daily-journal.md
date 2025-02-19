@@ -553,7 +553,7 @@ I worked on:
 
 Day 86: 18/02/25
 
-I had issues with the receipts section so I worked on both the backend and the frontend of it.
+I had issues with the receipts section, so I worked on both the back and frontend of it.
 
 Day 87: 19/02/25
 
