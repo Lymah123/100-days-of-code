@@ -558,3 +558,7 @@ I had issues with the receipts section, so I worked on both the back and fronten
 Day 87: 19/02/25
 
 No significant progress today, as I got stuck on debugging for seven hours plus, going from one troubleshooting issue to another.
+
+Day 88: 20/02/25
+
+I was able to fixed part of the issues. I will continue to figure out other issues.
