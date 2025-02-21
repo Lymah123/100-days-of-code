@@ -561,4 +561,8 @@ No significant progress today, as I got stuck on debugging for seven hours plus,
 
 Day 88: 20/02/25
 
-I was able to fixed part of the issues. I will continue to figure out other issues.
+I was able to fix some of the issues. I will continue to figure out other problems.
+
+Day 89: 21/02/25
+
+I worked on the rest of the issues and I was able to fix a larger part of it.
