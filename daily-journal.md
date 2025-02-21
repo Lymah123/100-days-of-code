@@ -553,8 +553,8 @@ I worked on:
 
 Day 86: 18/02/25
 
-I had issues with the receipts section, so I worked on both the back and frontend of it.
-
+I had issues with the receipts section, so I worked on both the back and front end of it.
+ 
 Day 87: 19/02/25
 
 No significant progress today, as I got stuck on debugging for seven hours plus, going from one troubleshooting issue to another.
