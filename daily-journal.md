@@ -566,3 +566,8 @@ I was able to fix some of the issues. I will continue to figure out other proble
 Day 89: 21/02/25
 
 I worked on the rest of the issues and I was able to fix a larger part of it.
+
+Day 90: 22/02/25
+
+- I solved a leetcode problem(Gas station)
+- Read a programming book (Cracking the coding interview)
