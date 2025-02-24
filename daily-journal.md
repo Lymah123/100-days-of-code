@@ -578,4 +578,6 @@ Day 91: 23/02/25
 - I solve a LeetCode problem(Candy)
 - Published a blog post on week 13 recap of #100DaysOfCode 
 
+Day 92: 24/02/25
 
+- Today, on the expense tracker app, I worked on the Firebase API authentication end on the backend for the register and login form. 
