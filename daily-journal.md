@@ -581,3 +581,7 @@ Day 91: 23/02/25
 Day 92: 24/02/25
 
 - Today, on the expense tracker app, I worked on the Firebase API authentication end on the backend for the register and login form. 
+
+Day 93: 25/02/25
+
+Today, I started writing test for the expense tracker app. I can't wait to be done with this app. I really want to pick up a new project.
