@@ -584,4 +584,8 @@ Day 92: 24/02/25
 
 Day 93: 25/02/25
 
-Today, I started writing test for the expense tracker app. I can't wait to be done with this app. I really want to pick up a new project.
+Today, I started writing tests for the expense tracker app. I can't wait to be done with this app. I want to pick up a new project.
+
+Day 94: 26/02/25
+
+Today, I continued with the writing test for the app. And a whole lot of troubleshooting. I am still on it.
