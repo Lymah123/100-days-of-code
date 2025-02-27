@@ -589,3 +589,7 @@ Today, I started writing tests for the expense tracker app. I can't wait to be d
 Day 94: 26/02/25
 
 Today, I continued with the writing test for the app. And a whole lot of troubleshooting. I am still on it.
+
+Day 95: 27/02/25
+
+Today, I picked up where I left off, debugged the issues.
