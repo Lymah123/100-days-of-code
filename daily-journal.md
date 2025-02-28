@@ -17,7 +17,7 @@ Components can be functional or class-based.
 2. JSX: JSX is a syntax extension for JavaScript that looks similar to HTML. It is used to describe what the UI should look like.
 Example: `const element = <h1>Hello, world!</h1>;`
 
-3. Props: Props (short for properties) are used to pass data from one component to another.
+3. Props: Props (short for properties) pass data from one component to another.
    
 Example: 
 ```
