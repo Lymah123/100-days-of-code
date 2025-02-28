@@ -106,7 +106,7 @@ Today, I created the entire database for the Hackathon app using Postgres PgAdmi
 Day 7: 01/12/24
 
 Today, I focused on my personal document vault project.
-I was able to test the API endpoint using a cURL API client request; a command based API testing automation and tried the Postman API client; a GUI API client request. I read about some other open source alternatives to these two. 
+I was able to test the API endpoint using a cURL API client request, a command based API testing automation and tried the Postman API client; a GUI API client request. I read about some other open source alternatives to these two. 
 
 Day 8: 02/12/24
 
