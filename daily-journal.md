@@ -593,3 +593,9 @@ Today, I continued with the writing test for the app. And a whole lot of trouble
 Day 95: 27/02/25
 
 Today, I picked up where I left off and debugged the issues.
+
+
+Day 96: 28/02/25
+
+Today, I made contribution to open source project. Issue description: custom icon and app name dose not apply to firefox mobile shortcut
+
