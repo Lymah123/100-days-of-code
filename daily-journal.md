@@ -599,6 +599,6 @@ Day 96: 28/02/25
 
 Today, I made contribution to open source project. Issue description: custom icon and app name dose not apply to firefox mobile shortcut
 
-Day 97: 01/02/25
+Day 97: 01/03/25
 
 Today, I solved LeetCode problem set on "Trapping Rain Water". And studied fundemantals of data structure
