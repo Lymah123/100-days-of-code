@@ -602,3 +602,9 @@ Today, I made contribution to open source project. Issue description: custom ico
 Day 97: 01/03/25
 
 Today, I solved LeetCode problem set on "Trapping Rain Water". And studied fundemantals of data structure
+
+Day 98: 02.03//25
+
+Today, 
+- I solved a LeetCode problem(Roman to Integer).
+- I published a blog on the week 14 recap of #100DaysOfCode
