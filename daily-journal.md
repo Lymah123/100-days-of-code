@@ -611,4 +611,6 @@ Today,
 
 Day 99: 03/03/25
 
-Today, I continued writing tests for the expense tracker app. 
+Today, 
+- I continued writing tests for the expense tracker app.
+- I spent time understanding and fixing bugs.
