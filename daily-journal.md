@@ -608,3 +608,7 @@ Day 98: 02.03//25
 Today, 
 - I solved a LeetCode problem(Roman to Integer).
 - I published a blog on the week 14 recap of #100DaysOfCode
+
+Day 99: 03/03/25
+
+Today, I continued writing tests for the expense tracker app. 
