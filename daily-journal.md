@@ -603,7 +603,7 @@ Day 97: 01/03/25
 
 Today, I solved LeetCode problem set on "Trapping Rain Water". And studied fundemantals of data structure
 
-Day 98: 02.03//25
+Day 98: 02/03//25
 
 Today, 
 - I solved a LeetCode problem(Roman to Integer).
@@ -614,3 +614,10 @@ Day 99: 03/03/25
 Today, 
 - I continued writing tests for the expense tracker app.
 - I spent time understanding and fixing bugs.
+
+Day 100: 04/03/25
+
+Today,
+- I tried to fix the failing tests on the app.
+- I troubleshooted issues with GitHub actions
+- I modified the app README.
