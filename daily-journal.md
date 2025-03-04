@@ -597,7 +597,7 @@ Today, I picked up where I left off and debugged the issues.
 
 Day 96: 28/02/25
 
-Today, I made contribution to open source project. Issue description: custom icon and app name dose not apply to firefox mobile shortcut
+Today, I contributed to the open source project. Issue description: custom icon and app name do not apply to Firefox mobile shortcut
 
 Day 97: 01/03/25
 
