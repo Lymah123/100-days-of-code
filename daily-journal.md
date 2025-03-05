@@ -621,3 +621,6 @@ Today,
 - I tried to fix the failing tests on the app.
 - I troubleshooted issues with GitHub actions
 - I modified the app README.
+
+--------------------------------------------------------------------------------------------------------------------------------
+That marked the end of #100DaysOfCode, the momentum never stops. Keep showing up every day, keep building, keep learning, and keep contributing to the open source community. Always be on the lookout for opportunities.
