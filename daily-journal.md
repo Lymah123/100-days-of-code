@@ -624,3 +624,8 @@ Today,
 
 --------------------------------------------------------------------------------------------------------------------------------
 That marked the end of #100DaysOfCode, the momentum never stops. Keep showing up every day, keep building, keep learning, and keep contributing to the open source community. Always be on the lookout for opportunities.
+
+
+Thur 06/03/25
+
+I started week 4 challenge for Summer Of Bitcoin BootCamp
