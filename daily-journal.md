@@ -630,3 +630,6 @@ Thur 06/03/25
 
 I started week 4 challenge for Summer Of Bitcoin BootCamp
 
+Mon 10/03/25
+
+The registration and login endpoints are now working. I modified the login and register handlers on the backend and I enanle authentication preference on the firebase console.
