@@ -633,3 +633,7 @@ I started week 4 challenge for Summer Of Bitcoin BootCamp
 Mon 10/03/25
 
 The registration and login endpoints are now working. I modified the login and register handlers on the backend and I enanle authentication preference on the firebase console.
+
+Tue 11/03/25
+
+I worked on error with receipts page on expense-tra app
