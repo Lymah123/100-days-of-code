@@ -650,3 +650,6 @@ Fri 14/03/25
 
 Didn't do much but I still show up to work on Goose issue
 
+Mon 17/03/25
+
+Refactored expense tracker app
