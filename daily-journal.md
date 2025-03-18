@@ -653,3 +653,7 @@ Didn't do much but I still show up to work on Goose issue
 Mon 17/03/25
 
 Refactored expense tracker app
+
+Tue 18/03/25
+
+One of those unproductive day, but I code for 30 mins
