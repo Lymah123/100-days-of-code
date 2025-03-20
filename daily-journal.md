@@ -657,3 +657,7 @@ Refactored expense tracker app
 Tue 18/03/25
 
 One of those unproductive day, but I code for 30 mins
+
+20/03/25
+
+Worked on expense tracker app and dealt with a frustrating client
