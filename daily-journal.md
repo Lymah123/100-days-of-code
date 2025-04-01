@@ -661,3 +661,12 @@ One of those unproductive day, but I code for 30 mins
 20/03/25
 
 Worked on expense tracker app and dealt with a frustrating client
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## 30DaysOfOpenSource
+### Today, April 1, I started #30DaysOfOpenSource Challenge
+
+Day 1: 01/04/25
+
+I completed the mandatory part of the competency test for Demand under the Summer of Bitcoin. I started the optional part of it too.
