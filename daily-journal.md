@@ -670,3 +670,11 @@ Worked on expense tracker app and dealt with a frustrating client
 Day 1: 01/04/25
 
 I completed the mandatory part of the competency test for Demand under the Summer of Bitcoin. I started the optional part of it too.
+
+Day 2: 02/04/25
+
+Today, I solved an issue and created a Pull Request on the Mifos Apache/Fineract repository. I received feedback on my PR and will work on addressing it. Next, I'll request a new review.
+
+Day 3: 03/04/25
+
+I made suggested changes based on the reviewer's feedback.
