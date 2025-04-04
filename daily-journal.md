@@ -678,3 +678,10 @@ Today, I solved an issue and created a Pull Request on the Mifos Apache/Fineract
 Day 3: 03/04/25
 
 I made suggested changes based on the reviewer's feedback.
+
+Day 4: 04/04/25
+
+- I created an issue on Demand open source repository on the fact that the repository need a CODE OF CONDUCT. The project maintainer's responded and asked me to go ahead on creating PR for the issue.
+
+- I am waiting for the reviewer's feedback on my latest changes on the suggestion under for Mifos Apache/Fineract repository.
+
