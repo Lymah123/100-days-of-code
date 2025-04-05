@@ -685,3 +685,7 @@ Day 4: 04/04/25
 
 - I am waiting for the reviewer's feedback on my latest changes to the suggestion for the Mifos Apache/Fineract repository.
 
+Day 5: 05/04/25
+
+- I submitted a PR on the issue I was asked to work  on Demand open source repository.
+- I received feedback on my PR on the Mifos Apache/Fineact repository. Next, I will work on the latest feedback.
