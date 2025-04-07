@@ -697,4 +697,4 @@ Day 6: 06/04/25
 Day 7: 07/04/25
 
 - I created an issue on the Demand open source repository about creating a PR template for the repo. I am waiting for the reviewer's approval to start working on the issue.
-- I am waiting for the reviewer's feedback on the last changes I made to the Mifos Apache/repository.
+- I am waiting for the reviewer's feedback on the last changes I made to the Mifos Apache/Fineract repository.
