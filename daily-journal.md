@@ -690,6 +690,11 @@ Day 5: 05/04/25
 - I submitted a PR on the issue I was asked to work  on Demand open source repository.
 - I received feedback on my PR on the Mifos Apache/Fineact repository. Next, I will work on the latest feedback.
 
-Day 6: 06/05/25
+Day 6: 06/04/25
 
 - I made the latest requested changes on Mifos Apache/Fineract repository. Requested a new review.
+
+Day 7: 07/04/25
+
+- I created an issue on the Demand open source repository about creating a PR template for the repo. I am waiting for the reviewer's approval to start working on the issue.
+- I am waiting for the reviewer's feedback on the last changes I made to the Mifos Apache/repository.
