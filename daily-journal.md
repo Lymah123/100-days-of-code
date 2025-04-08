@@ -698,3 +698,7 @@ Day 7: 07/04/25
 
 - I created an issue on the Demand open source repository about creating a PR template for the repo. I am waiting for the reviewer's approval to start working on the issue.
 - I am waiting for the reviewer's feedback on the last changes I made to the Mifos Apache/Fineract repository.
+
+Day 8: 08/04/25
+
+I made the automation I made for extracting images from Google Docs open source. By making the source code public and detailed documentation on how to it works.
