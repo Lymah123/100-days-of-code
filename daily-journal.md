@@ -702,3 +702,8 @@ Day 7: 07/04/25
 Day 8: 08/04/25
 
 I made the automation I made for extracting images from Google Docs open source. By making the source code public and detailed documentation on how to it works.
+
+Day 9: 09/04/25
+
+- I started working on the issue I was assigned to work on bitcoinfuzz repository
+- One of my PRs on Demand open source repository was approved  
