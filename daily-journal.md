@@ -706,4 +706,8 @@ I made the automation I made for extracting images from Google Docs open source.
 Day 9: 09/04/25
 
 - I started working on the issue I was assigned to work on bitcoinfuzz repository
-- One of my PRs on Demand open source repository was approved  
+- One of my PRs on Demand open source repository was approved
+
+Day 10: 10/04/25
+
+- I submitted a PR for the issue I was assigned to work on on bitcoinfuzz repository.
