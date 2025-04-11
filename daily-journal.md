@@ -711,3 +711,8 @@ Day 9: 09/04/25
 Day 10: 10/04/25
 
 - I submitted a PR for the issue I was assigned to work on on bitcoinfuzz repository.
+
+Day 11: 11/04/25
+
+- I received feedback on my PR on bitcoinfuzz repository. I worked on the suggestions and I requested for a new review 
+- My PR on Mifos Apache/fineract got approved. I have been assigned to work on another new issue.
