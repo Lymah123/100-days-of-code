@@ -716,3 +716,7 @@ Day 11: 11/04/25
 
 - I received feedback on my PR on bitcoinfuzz repository. I worked on the suggestions and I requested for a new review 
 - My PR on Mifos Apache/fineract got approved. I have been assigned to work on another new issue.
+
+Day 12: 12/04/25
+
+Today, I worked on the latest issue I picked up on Demand open source cli repository. I completed the changes, I created PR and I requested for a review.
