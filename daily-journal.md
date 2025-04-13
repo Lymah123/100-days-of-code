@@ -720,3 +720,7 @@ Day 11: 11/04/25
 Day 12: 12/04/25
 
 Today, I worked on the latest issue I picked up on Demand open source cli repository. I completed the changes, I created PR and I requested for a review.
+
+Day 13: 13/04/25
+
+Today, I started exploring resources for implementing the new issue I am working on in the Mifos Apache/Fineract repository.
