@@ -724,3 +724,7 @@ Today, I worked on the latest issue I picked up on Demand open source cli reposi
 Day 13: 13/04/25
 
 Today, I started exploring resources for implementing the new issue I am working on in the Mifos Apache/Fineract repository.
+
+Day 14: 14/04/25
+
+Today, I continued exploring resources on how to go about my implementations for the Mifos Apache/Fineract issue. I was able to highlight my approach. The next thing is to start working on my approach.
