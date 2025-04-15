@@ -728,3 +728,7 @@ Today, I started exploring resources for implementing the new issue I am working
 Day 14: 14/04/25
 
 Today, I continued exploring resources on how to go about my implementations for the Mifos Apache/Fineract issue. I was able to highlight my approach. The next thing is to start working on my approach.
+
+Day 15: 15/04/25
+
+I received feedback and suggestions on my PR in the bitcoinfuzz repository. I started working on the implementation.
