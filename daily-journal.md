@@ -732,3 +732,7 @@ Today, I continued exploring resources on how to go about my implementations for
 Day 15: 15/04/25
 
 I received feedback and suggestions on my PR in the bitcoinfuzz repository. I started working on the implementation.
+
+Day 16: 16/04/25
+
+Today, I worked on the feedback I received on the bitcoinfuzz repository, and I requested for a new review.
