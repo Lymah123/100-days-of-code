@@ -736,3 +736,7 @@ I received feedback and suggestions on my PR in the bitcoinfuzz repository. I st
 Day 16: 16/04/25
 
 Today, I worked on the feedback I received on the bitcoinfuzz repository, and I requested for a new review.
+
+Day 17: 17/04/25
+
+Today, I worked on my personal (Java)project, added a feature. I pushed it to GitHub
