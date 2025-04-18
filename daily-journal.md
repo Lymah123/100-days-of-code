@@ -740,3 +740,7 @@ Today, I worked on the feedback I received on the bitcoinfuzz repository, and I 
 Day 17: 17/04/25
 
 Today, I worked on my personal (Java)project, added a feature. I pushed it to GitHub
+
+Day 18: 18/04/25
+
+I started working on a demo for a Bitcoin fuzz just to test my understanding and to learn more about fuzzing, as I have been making contributions to fuzzing for an open source project. Just getting my hands dirty and learning. Let us see how far the demo project goes over the weekend.
