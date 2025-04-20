@@ -748,3 +748,7 @@ I started working on a demo for a Bitcoin fuzz just to test my understanding and
 Day 19: 19/04/25
 
 I continued with my fuzzing demo project. I pushed changes to GitHub.
+
+Day 20: 20/04/25
+
+I completed my fuzzing demo deserialized target.
