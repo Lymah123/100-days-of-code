@@ -752,4 +752,7 @@ I continued with my fuzzing demo project. I pushed changes to GitHub.
 Day 20: 20/04/25
 
 Still on the fuzzing demo project.
-I completed my fuzzing demo deserialized target.
+
+Day 21: 21/04/25
+
+I started familiarizing myself with the btcsuite/btcwallet repository(A secure bitcoin wallet daemon written in Go). As I am trying to make a contribution to the Lightning Network Daemon(LND) repository. Learning more about Golang in relation to Bitcoin as backend is fun.
