@@ -760,3 +760,7 @@ I started familiarizing myself with the btcsuite/btcwallet repository(A secure b
 Day 22: 22/04/25
 
 I started working on Lightning Node Deamon 
+
+Day 23: 23/04/25
+
+Today, I learned the conditions under which a transaction can be replaced using RBF(Replace-by-Fee).
