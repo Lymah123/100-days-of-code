@@ -764,3 +764,7 @@ I started working on Lightning Node Deamon
 Day 23: 23/04/25
 
 Today, I learned the conditions under which a transaction can be replaced using RBF(Replace-by-Fee).
+
+Day 24: 24/05/25
+
+Today, I explored the LND repository for an issue to work on.
