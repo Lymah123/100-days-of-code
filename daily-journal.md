@@ -767,4 +767,8 @@ Today, I learned the conditions under which a transaction can be replaced using 
 
 Day 24: 24/05/25
 
+Day 25: 25/04/25
+
+Today, I created a PR for the new issue I picked up on Mifos Apache/Fineract
+
 Today, I explored the LND repository for an issue to work on.
