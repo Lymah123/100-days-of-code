@@ -765,7 +765,7 @@ Day 23: 23/04/25
 
 Today, I learned the conditions under which a transaction can be replaced using RBF(Replace-by-Fee).
 
-Day 24: 24/05/25
+Day 24: 24/04/25
 
 Today, I explored the LND repository for an issue to work on.
 
@@ -773,4 +773,6 @@ Day 25: 25/04/25
 
 Today, I created a PR for the new issue I picked up on Mifos Apache/Fineract
 
+Day 26: 26/04/25
 
+I explored LND repository codebase.
