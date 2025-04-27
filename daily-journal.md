@@ -776,3 +776,7 @@ Today, I created a PR for the new issue I picked up on Mifos Apache/Fineract
 Day 26: 26/04/25
 
 I explored LND repository codebase.
+
+Day 27: 27/04/25
+
+Today, I picked a good first issue to work on the LND repository.
