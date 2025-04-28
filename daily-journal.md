@@ -780,3 +780,7 @@ I explored LND repository codebase.
 Day 27: 27/04/25
 
 Today, I picked a good first issue to start with on the LND repository.
+
+Day 28: 28/04/25
+
+Today, I received feedback on my pull request for Mifos Apache/fineract. I started working on the feedback.
