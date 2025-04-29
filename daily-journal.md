@@ -784,3 +784,7 @@ Today, I picked a good first issue to start with on the LND repository.
 Day 28: 28/04/25
 
 Today, I received feedback on my pull request for Mifos Apache/fineract. I started working on the feedback.
+
+Day 29: 29/04/25
+
+Today, continued working on the changes for the pull request on Mifos Apache/Fineract.
