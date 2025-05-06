@@ -17,3 +17,7 @@ I showed up again today.
 Mon 05/05/25
 
 I completed the requested changes on Mifos APache/Fineract repository and I pushed the latest updated changes.
+
+Tue 06/05/25
+
+I worked on my expense tracker app. (I am trying to refine the app, adding more features and optimization. Making it standard)
