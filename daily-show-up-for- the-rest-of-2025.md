@@ -21,3 +21,7 @@ I completed the requested changes on Mifos APache/Fineract repository and I push
 Tue 06/05/25
 
 I worked on my expense tracker app. (I am trying to refine the app, adding more features and optimization. Making it standard)
+
+Wed 07/05/25
+
+I started fixing issues with currency in the add expense section of expense tracker app.
