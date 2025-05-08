@@ -25,3 +25,7 @@ I worked on my expense tracker app. (I am trying to refine the app, adding more 
 Wed 07/05/25
 
 I started fixing issues with currency in the add expense section of expense tracker app.
+
+Thur 08/05/25
+
+I continue working on expense tracker app.
