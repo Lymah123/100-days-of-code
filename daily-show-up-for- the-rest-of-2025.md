@@ -1,6 +1,6 @@
 Thur 01/05/25
 
-I worked on repository for Mifos Apache/Fineract. 
+I worked on the repository for Mifos Apache/Fineract. 
 
  Fri 02/05/25
 
@@ -29,3 +29,7 @@ I started fixing issues with currency in the add expense section of expense trac
 Thur 08/05/25
 
 I continue working on expense tracker app.
+
+Fri 09/05/25
+
+I fix some issues on the app while making improvement
