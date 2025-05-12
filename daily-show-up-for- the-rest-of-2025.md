@@ -33,3 +33,13 @@ I continue working on expense tracker app.
 Fri 09/05/25
 
 I fix some issues on the app while making improvement
+
+Sat - sun
+
+I did nothing. I took a break, I had a breakdown on rejections I got
+
+Mon 12/05/25
+
+- I received feedback on my PR on Mifos Apache/Fineract. Made the changes and pushed
+- I worked on my expense-tracker app
+
