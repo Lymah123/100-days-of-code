@@ -43,3 +43,6 @@ Mon 12/05/25
 - I received feedback on my PR on Mifos Apache/Fineract. Made the changes and pushed
 - I worked on my expense-tracker app
 
+Tue 13/05/25
+
+- I made significant changes on the expense-tracker app and pushed the latest update and merged. 
