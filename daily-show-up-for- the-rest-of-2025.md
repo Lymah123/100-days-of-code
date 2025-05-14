@@ -34,7 +34,7 @@ Fri 09/05/25
 
 I fix some issues on the app while making improvement
 
-Sat - sun
+Sat - sun: 10-11/05/25
 
 I did nothing. I took a break, I had a breakdown on rejections I got
 
@@ -46,3 +46,8 @@ Mon 12/05/25
 Tue 13/05/25
 
 - I made significant changes on the expense-tracker app and pushed the latest update and merged. 
+
+Wed 14/05/25
+
+- I worked on enhancing the expense-tracker app
+- I started brainstorming on a new project to work on.
