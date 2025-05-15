@@ -51,3 +51,7 @@ Wed 14/05/25
 
 - I worked on enhancing the expense-tracker app
 - I started brainstorming on a new project to work on.
+
+Thur 15/05/25
+
+I worked on the template pages for the expense-tracker.
