@@ -55,3 +55,7 @@ Wed 14/05/25
 Thur 15/05/25
 
 I worked on the template pages for the expense-tracker.
+
+Fri 16/05/25
+
+Worked on removing footer from both register and login pages.
