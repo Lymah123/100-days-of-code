@@ -59,3 +59,11 @@ I worked on the template pages for the expense-tracker.
 Fri 16/05/25
 
 Worked on removing footer from both register and login pages.
+
+Sat - Sun
+
+I worked on the expense-tracker app
+
+Mon 19/05/25
+
+I worked on the currencies visuals compatibility
