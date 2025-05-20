@@ -67,3 +67,7 @@ I worked on the expense-tracker app
 Mon 19/05/25
 
 I worked on the currencies visuals compatibility
+
+Tue 20/05/25
+
+I fixed the recurring expense page.
