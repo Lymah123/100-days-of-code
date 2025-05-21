@@ -71,3 +71,7 @@ I worked on the currencies visuals compatibility
 Tue 20/05/25
 
 I fixed the recurring expense page.
+
+Wed 21/05/25
+
+I started working on the ACCOUNT feature(settings, profile, 2FA authentication, logout, etc) for the expense tracker app. 
