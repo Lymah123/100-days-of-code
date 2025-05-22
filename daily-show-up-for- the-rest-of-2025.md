@@ -75,3 +75,7 @@ I fixed the recurring expense page.
 Wed 21/05/25
 
 I started working on the ACCOUNT feature(settings, profile, 2FA authentication, logout, etc) for the expense tracker app. 
+
+Thur 22/05/25
+
+I worked on the ACCOUNT section handler.
