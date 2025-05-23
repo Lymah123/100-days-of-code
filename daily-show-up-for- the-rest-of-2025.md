@@ -79,3 +79,7 @@ I started working on the ACCOUNT feature(settings, profile, 2FA authentication, 
 Thur 22/05/25
 
 I worked on the ACCOUNT section handler.
+
+Fri 23/05/25
+
+Debugged ACCOUNT section handlers
