@@ -83,3 +83,7 @@ I worked on the ACCOUNT section handler.
 Fri 23/05/25
 
 Debugged ACCOUNT section handlers
+
+Sat 24/05/25
+
+I worked on the recieved feeback on Mifos Apache/Fineract
