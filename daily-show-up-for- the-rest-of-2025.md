@@ -87,3 +87,7 @@ Debugged ACCOUNT section handlers
 Sat 24/05/25
 
 I worked on the recieved feeback on Mifos Apache/Fineract
+
+Sun 25/05/25
+
+Worked on Mifos Apache/fineract PR
