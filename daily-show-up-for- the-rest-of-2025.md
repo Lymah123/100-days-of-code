@@ -91,3 +91,7 @@ I worked on the recieved feeback on Mifos Apache/Fineract
 Sun 25/05/25
 
 Worked on Mifos Apache/fineract PR
+
+Mon 26/05/25
+
+- I pushed changes to Mifos Apache/fineract 
