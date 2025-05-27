@@ -95,3 +95,7 @@ Worked on Mifos Apache/fineract PR
 Mon 26/05/25
 
 - I pushed changes to Mifos Apache/fineract 
+
+Tue 27/05/25
+
+I worked on an expense-tracker app.
