@@ -99,3 +99,7 @@ Mon 26/05/25
 Tue 27/05/25
 
 I worked on an expense-tracker app.
+
+Wed 28/05/25
+
+I spent a little time on expense tracker app 
