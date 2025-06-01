@@ -115,3 +115,7 @@ I requested help on the weird conflict I am facing on Mifos Apache/fineract.
 Sat 31/05/25
 
 I started working on nanoservice repo issue.
+
+Sun 01/06/25
+
+I published a blog post on my week 2 of learning Rust programming language.
