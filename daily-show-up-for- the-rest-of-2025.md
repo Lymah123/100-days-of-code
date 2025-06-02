@@ -119,3 +119,8 @@ I started working on nanoservice repo issue.
 Sun 01/06/25
 
 I published a blog post on my week 2 of learning Rust programming language.
+
+Mon 02/06/25
+
+- I added footer handlers to the expense-tracker app
+- I learned Pattern Match in Rust programming language.
