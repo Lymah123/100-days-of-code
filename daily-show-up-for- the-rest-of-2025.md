@@ -124,3 +124,9 @@ Mon 02/06/25
 
 - I added footer handlers to the expense-tracker app
 - I learned Pattern Match in Rust programming language.
+
+
+Tue 03/06/25
+
+- I resolved conflicts on Mifos Apache/fineract PR
+- I learned Patern in Rust and I practiced exercises.
