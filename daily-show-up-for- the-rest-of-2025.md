@@ -130,3 +130,7 @@ Tue 03/06/25
 
 - I resolved conflicts on Mifos Apache/fineract PR
 - I learned Patern in Rust and I practiced exercises.
+
+Wed 04/06/25
+
+- I showed up on my learning Rust programming fundamentals where I learned and practiced METHODS and ASSOCIATED FUNCTIONS.
