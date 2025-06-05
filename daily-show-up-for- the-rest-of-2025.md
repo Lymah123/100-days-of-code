@@ -134,3 +134,7 @@ Tue 03/06/25
 Wed 04/06/25
 
 - I showed up on my learning Rust programming fundamentals where I learned and practiced METHODS and ASSOCIATED FUNCTIONS.
+
+Thur 05/06/25
+
+I learned GENERIC in learning RUST programming language fundamentals 
