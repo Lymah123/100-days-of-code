@@ -138,3 +138,8 @@ Wed 04/06/25
 Thur 05/06/25
 
 I learned GENERIC in learning RUST programming language fundamentals 
+
+Mon 09/06/25
+
+- I learned about CONST GENERICS
+- I also read about the differences between GENERIC & CONST GENERIC. Their applications as well.
