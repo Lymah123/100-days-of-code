@@ -143,3 +143,7 @@ Mon 09/06/25
 
 - I learned about CONST GENERICS
 - I also read about the differences between GENERIC & CONST GENERIC. Their applications as well.
+
+Tue 10/06/25
+
+Today, I learned how TRAITS work in Rust programming language and I practiced exercises as well.
