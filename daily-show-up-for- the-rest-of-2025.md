@@ -147,3 +147,7 @@ Mon 09/06/25
 Tue 10/06/25
 
 Today, I learned how TRAITS work in Rust programming language and I practiced exercises as well.
+
+Wed 11/06/25
+
+I published a blog post about week 3 of learning Rust programming fundamentals 
