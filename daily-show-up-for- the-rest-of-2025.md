@@ -155,3 +155,7 @@ I published a blog post about week 3 of learning Rust programming fundamentals
 Thur 12/06/25
 
 I learned about ADVANCED TRAITS in Rust programming language.
+
+Fri 13/06/25
+
+I started learning collection types in Rust programming language.
