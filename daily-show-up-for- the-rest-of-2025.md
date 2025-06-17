@@ -159,3 +159,14 @@ I learned about ADVANCED TRAITS in Rust programming language.
 Fri 13/06/25
 
 I started learning collection types in Rust programming language.
+
+Mon 16/06/25
+
+- I learned and practiced Vector in Rust
+- I started working on game from what I have learned in Rust so far
+
+ Tue 17/06/25
+
+- I learned HashMap in Rust programming language
+- I added a feature to the game project.
+  
