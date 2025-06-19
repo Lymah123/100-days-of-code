@@ -174,3 +174,5 @@ Wed 17/06/25
 
 - I completed the Week 1 video learning on BTCdemy.
 - I learned conversion type in Rust Programming
+
+Today, I completed and submitted week 1 exercise for Btcdemy. I also learned Results and Panic in Rust programming language 
