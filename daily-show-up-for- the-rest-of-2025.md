@@ -170,9 +170,17 @@ Mon 16/06/25
 - I learned HashMap in Rust programming language
 - I added a feature to the game project.
 
-Wed 17/06/25
+Wed 18/06/25
 
 - I completed the Week 1 video learning on BTCdemy.
 - I learned conversion type in Rust Programming
 
+Thur 19/06/25
+
 Today, I completed and submitted week 1 exercise for Btcdemy. I also learned Results and Panic in Rust programming language 
+
+Fri 20/06/25
+
+I learned concept of lifetime in Rust programming language.
+
+
