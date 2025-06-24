@@ -187,3 +187,7 @@ Mon 23/06/25
 
 - I learned elision and Static lifetime in Rust programming language
 - I started working on the authenticated routes for the bolt Hackathon 
+
+Tue 24/06/25
+
+I completed the FreeCodeCamp Rust programming language complete course and practiced a whole lot of exercises on Rust by practice website. Moving forward, it is now project-base learning.
