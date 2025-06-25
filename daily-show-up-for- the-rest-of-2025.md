@@ -191,3 +191,8 @@ Mon 23/06/25
 Tue 24/06/25
 
 I completed the FreeCodeCamp Rust programming language complete course and practiced a whole lot of exercises on Rust by practice website. Moving forward, it is now project-base learning.
+
+
+Wed 25/06/25
+
+I started watching the week 2 course on BTCdemy
