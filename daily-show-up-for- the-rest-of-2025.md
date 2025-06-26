@@ -196,3 +196,7 @@ I completed the FreeCodeCamp Rust programming language complete course and pract
 Wed 25/06/25
 
 I started watching the week 2 course on BTCdemy
+
+Thur 26/06/25
+
+I worked and submitted week 2 exercises for btcdemy
