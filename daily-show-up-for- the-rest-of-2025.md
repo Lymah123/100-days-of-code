@@ -200,3 +200,7 @@ I started watching the week 2 course on BTCdemy
 Thur 26/06/25
 
 I worked and submitted week 2 exercises for btcdemy
+
+Fri 27/06/25
+
+I worked on the authentication endpoints for the Hackathon 
