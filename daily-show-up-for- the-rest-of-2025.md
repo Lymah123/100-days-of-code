@@ -204,3 +204,7 @@ I worked and submitted week 2 exercises for btcdemy
 Fri 27/06/25
 
 I worked on the authentication endpoints for the Hackathon 
+
+Sat 28/06/25
+
+I worked on Hackathon tasks
