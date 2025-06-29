@@ -208,3 +208,7 @@ I worked on the authentication endpoints for the Hackathon
 Sat 28/06/25
 
 I worked on Hackathon tasks
+
+Sun 29/05/25
+
+I worked on Hackathon tasks 
