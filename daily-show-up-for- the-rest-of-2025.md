@@ -216,3 +216,7 @@ I worked on Hackathon tasks
 Mon 30/06/25
 
 I worked on the tic-tac-toe game I am building 
+
+Tue 01/07/25
+
+I worked on the bevy game project
