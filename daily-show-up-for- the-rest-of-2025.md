@@ -220,3 +220,7 @@ I worked on the tic-tac-toe game I am building
 Tue 01/07/25
 
 I worked on the bevy game project
+
+Wed 02/07/25
+
+I completed the week 3 videos on btcdemy
