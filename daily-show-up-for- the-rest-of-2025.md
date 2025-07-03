@@ -224,3 +224,9 @@ I worked on the bevy game project
 Wed 02/07/25
 
 I completed the week 3 videos on btcdemy
+
+Thur 03/07/25
+
+- I worked on the week 3 btcdemy exercise and I submitted my solution.
+- I made a little change on my bevy game project.
+- I had meetings on research lab open source voluntering work 
