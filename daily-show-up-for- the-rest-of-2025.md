@@ -234,3 +234,7 @@ Thur 03/07/25
 Fri 04/07/25
 
 I worked on a client freelance website project.
+
+Sat 05/07/25
+
+I worked on the Bevy game project.
