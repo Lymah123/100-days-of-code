@@ -238,3 +238,7 @@ I worked on a client freelance website project.
 Sat 05/07/25
 
 I worked on the Bevy game project.
+
+Mon 07/07/25
+
+I worked on the bevy game project.
