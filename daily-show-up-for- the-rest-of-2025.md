@@ -254,3 +254,9 @@ I completed the week 4 video on btecdemy
 Thur 10/09/25
 
 I worked on the week 4 btcdemy exercise and submitted the week 4 exercise.
+
+Moon 14/07/25
+
+- I worked on my bevy gaming app
+- I depployed mat-platform app.
+
