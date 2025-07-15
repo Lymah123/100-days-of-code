@@ -255,8 +255,11 @@ Thur 10/09/25
 
 I worked on the week 4 btcdemy exercise and submitted the week 4 exercise.
 
-Moon 14/07/25
+Mon 14/07/25
 
 - I worked on my bevy gaming app
 - I depployed mat-platform app.
 
+Tue 15/07/25
+
+I worked on my bevy tic-tac-toe gaming app
