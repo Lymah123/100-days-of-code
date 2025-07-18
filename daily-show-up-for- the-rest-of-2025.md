@@ -267,3 +267,7 @@ I worked on my bevy tic-tac-toe gaming app
 Wed 16/07/25
 
 I worked on the bevy gaming app
+
+Fri 18/07/25
+
+I worked on Mifos Apache/fineract PR 
