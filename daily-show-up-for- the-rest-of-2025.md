@@ -280,3 +280,7 @@ Mon 21/07/25
 
 - I worked on Mifos Apache/Fineract PR
 - I worked on bevy gaming project.
+
+Tue 22/07/25
+
+- I started working on Rust for Bitcoin capstone project
