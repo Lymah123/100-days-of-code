@@ -284,3 +284,7 @@ Mon 21/07/25
 Tue 22/07/25
 
 - I started working on Rust for Bitcoin capstone project
+
+Wed 23/07/25
+
+I deployed a Standardized Pricing System App for the volunteering research lab. 
