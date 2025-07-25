@@ -292,3 +292,7 @@ I deployed a Standardized Pricing System App for the volunteering research lab.
 Thur 24/07/25
 
 Today, I made some changes to my Bevy gaming app.
+
+Fri 24/07/25
+
+I worked on Mifos Apache/Fineract PR. 
