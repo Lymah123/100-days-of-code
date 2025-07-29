@@ -304,3 +304,7 @@ I worked on Mifos Apache/Fineract PR.
 Mon 28/07/25
 
 I worked on the bevy gaming app.
+
+Tue 29/07/25
+
+I worked a little on the bevy app. And freelance projects.
