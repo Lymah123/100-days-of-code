@@ -312,3 +312,7 @@ I worked a little on the bevy app. And freelance projects.
 Wed 30/07/25
 
 I worked on Witda deployment. Production debugging 
+
+Thur 31/07/25
+
+- I worked on the bevy gaming project.
