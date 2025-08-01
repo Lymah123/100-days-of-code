@@ -316,3 +316,7 @@ I worked on Witda deployment. Production debugging
 Thur 31/07/25
 
 - I worked on the bevy gaming project.
+
+Fri 01/08/25
+
+I started learning System Design. I came up with a roadmap
