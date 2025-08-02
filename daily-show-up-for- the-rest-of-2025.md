@@ -320,3 +320,8 @@ Thur 31/07/25
 Fri 01/08/25
 
 I started learning System Design. I came up with a roadmap
+
+
+Sat 02/08/25
+
+I learned basic of System Design
