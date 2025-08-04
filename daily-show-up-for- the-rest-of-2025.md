@@ -325,3 +325,8 @@ I started learning System Design. I came up with a roadmap
 Sat 02/08/25
 
 I learned basic of System Design
+
+
+Mon 04/08/25
+
+I started working on a new project today. An API-Power AI Content Summarizer(HybriSum).
