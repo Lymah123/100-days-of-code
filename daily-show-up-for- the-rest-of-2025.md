@@ -330,3 +330,7 @@ I learned basic of System Design
 Mon 04/08/25
 
 I started working on a new project today. An API-Power AI Content Summarizer(HybriSum).
+
+Tue 05/08/25
+
+I continue working on HybriSum where I focused on summarize.rs under fast api endpoint.
