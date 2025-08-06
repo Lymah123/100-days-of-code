@@ -334,3 +334,7 @@ I started working on a new project today. An API-Power AI Content Summarizer(Hyb
 Tue 05/08/25
 
 I continue working on HybriSum where I focused on summarize.rs under fast api endpoint.
+
+Wed 06/08/25
+
+I worked on Nuybrisum project. I focused on summarize.py fast api endpoint.
