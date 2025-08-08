@@ -338,3 +338,11 @@ I continue working on HybriSum where I focused on summarize.rs under fast api en
 Wed 06/08/25
 
 I worked on Nuybrisum project. I focused on summarize.py fast api endpoint.
+
+Thur 07/08/25
+
+I received feedback on Mifos Apache/Fineract pull request
+
+Fri 08/08/25
+
+I started working on the authorization and authentication endpoints of the HybriSum app
