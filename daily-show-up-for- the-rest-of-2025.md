@@ -350,3 +350,11 @@ I started working on the authorization and authentication endpoints of the Hybri
 Sat 09/08/25
 
 I completed the authorization and authentication endpoints. 
+
+Mon 11/08/25
+
+I completed the beginner's video on system design on FreeCodeCamp YouTube channel
+
+Tue 12/08/25
+
+I worked on user models and schemas aspect of the HybriSum project.
