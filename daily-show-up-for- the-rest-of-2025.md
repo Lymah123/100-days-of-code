@@ -365,7 +365,11 @@ I went through the requested changes on the last pushed I made to the Mifos Apac
 
 Mon 18/08/25
 
-I worked on the following for thw AI Powered Summarizer app:
+I worked on the following for the AI Powered Summarizer app:
 - endpoints for logging and retrieving usage data
 - error handling and integration with project's database
 - authentication
+
+Tue 19/08/25
+
+I refactored the code I have written so far on AI powered summarizer app
