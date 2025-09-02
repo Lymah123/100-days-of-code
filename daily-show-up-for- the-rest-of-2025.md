@@ -389,3 +389,7 @@ I continued working on the Hybrisum project.
 Thur 28/08/25
 
 I worked on the Hybrisum project.
+
+Tue 02/09/25
+
+I implemented GitHub action workflow in the bevy tic tac to gaming app.
