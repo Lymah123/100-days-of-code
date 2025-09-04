@@ -393,3 +393,7 @@ I worked on the Hybrisum project.
 Tue 02/09/25
 
 I implemented GitHub action workflow in the bevy tic tac to gaming app.
+
+Thur 04/09/25
+
+I debugged the ai logic in for the bevy gaming app
