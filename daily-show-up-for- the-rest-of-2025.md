@@ -397,3 +397,7 @@ I implemented GitHub action workflow in the bevy tic tac to gaming app.
 Thur 04/09/25
 
 I debugged the ai logic in for the bevy gaming app
+
+Sat 06/09/25
+
+I updated the docs on the bevy gaming app.
