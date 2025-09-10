@@ -405,3 +405,7 @@ I updated the docs on the bevy gaming app.
 Mon 08/09/25
 
 I worked on issues with the GitHub action workflow
+
+Tue 11/09/25
+
+I started working on Docker for deploying the gaming app.
