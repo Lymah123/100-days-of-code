@@ -406,6 +406,10 @@ Mon 08/09/25
 
 I worked on issues with the GitHub action workflow
 
-Tue 11/09/25
+Wed 10/09/25
 
 I started working on Docker for deploying the gaming app.
+
+Thur 11/09/25
+
+I was able to get the Docker set up running for the gaming app
