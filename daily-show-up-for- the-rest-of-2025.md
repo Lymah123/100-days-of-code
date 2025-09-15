@@ -413,3 +413,7 @@ I started working on Docker for deploying the gaming app.
 Thur 11/09/25
 
 I was able to get the Docker set up running for the gaming app
+
+Mon 15/09/25
+
+I worked on WebAssembly on the Bevy gaming app.
