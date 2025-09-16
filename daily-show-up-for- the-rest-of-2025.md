@@ -417,3 +417,7 @@ I was able to get the Docker set up running for the gaming app
 Mon 15/09/25
 
 I worked on WebAssembly on the Bevy gaming app.
+
+Tue 16/09/25
+
+I worked on the X/O players not showing on the game grid board
