@@ -421,3 +421,7 @@ I worked on WebAssembly on the Bevy gaming app.
 Tue 16/09/25
 
 I worked on the X/O players not showing on the game grid board
+
+Wed 17/09/25
+
+I finally resolved the issue with the rendering X/O on the grid board.
