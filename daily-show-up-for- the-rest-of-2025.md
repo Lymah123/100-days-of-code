@@ -425,3 +425,7 @@ I worked on the X/O players not showing on the game grid board
 Wed 17/09/25
 
 I finally resolved the issue with the rendering X/O on the grid board.
+
+Thur 18/09/25
+
+I debugged the issue with the Restart button. Still on it tho
