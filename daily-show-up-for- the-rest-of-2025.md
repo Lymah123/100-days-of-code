@@ -429,3 +429,7 @@ I finally resolved the issue with the rendering X/O on the grid board.
 Thur 18/09/25
 
 I debugged the issue with the Restart button. Still on it tho
+
+Sat 19/09/25
+
+I fixed the issue with the gaming app, ready for pushing
