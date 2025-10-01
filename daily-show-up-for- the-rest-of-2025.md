@@ -433,3 +433,8 @@ I debugged the issue with the Restart button. Still on it tho
 Sat 19/09/25
 
 I fixed the issue with the gaming app, ready for pushing
+
+01/10/25
+
+I started working on the tikiv project issue.
+I took some issues for Hacktoberfest on goose repo.
