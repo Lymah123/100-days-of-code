@@ -438,3 +438,7 @@ I fixed the issue with the gaming app, ready for pushing
 
 I started working on the tikiv project issue.
 I took some issues for Hacktoberfest on goose repo.
+
+02/10/25
+
+I tested the changes I made on tikv issue 
