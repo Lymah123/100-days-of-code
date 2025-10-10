@@ -6,6 +6,6 @@ The challenge took me from 25-11-2024 to 04-03-2025. Not a single day missed. On
 
 ## I embarked #30DaysOfOpenSource challenge from April 1 - April 30, 2025. It was successful. No day was skipped. Posted on threads throughout the challenge.
 
-## I am starting #Showing challenge for the rest of this year. It could be anything, whether open source contribution, working on a project, learn programming concepts, reading blog posts, writing blog posts, hackathon, competition, building, learning, etc. Anything.... But the rule is to show up every day! This is challenge posting on social platforms is not compulsory but I gotta post anytime I am working on something new. Infact, I will post without rules.
+## I am starting #Showing challenge for the rest of this year. It could be anything, whether open source contribution, working on a project, learn programming concepts, reading blog posts, writing blog posts, hackathon, competition, building, learning, etc. Anything.... But the rule is to show up every day! This is challenge posting on social platforms is not compulsory but I gotta post anytime I am working on something new. Infact, I will post without rules
 
 # Start Date: 01/05/25
