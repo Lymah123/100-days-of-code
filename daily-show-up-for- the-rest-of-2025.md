@@ -466,3 +466,7 @@ I worked on the making all the test cases passed on tikv PR.
 12/10/25
 
 I want to start working on another issue for Hacktoberfest
+
+13/10/25
+
+I started working on another issue for Hacktoberfest on Goose repository. 
