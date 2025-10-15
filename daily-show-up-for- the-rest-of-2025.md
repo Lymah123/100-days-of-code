@@ -470,3 +470,7 @@ I want to start working on another issue for Hacktoberfest
 13/10/25
 
 I started working on another issue for Hacktoberfest on Goose repository. 
+
+15/10/25
+
+I received a feedback on my second PR for Hacktoberfest on Goose repository
