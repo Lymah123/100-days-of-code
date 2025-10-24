@@ -482,3 +482,7 @@ Nothing much today.
 20/10/25
 
 I started working on my 4th issue for Hacktoberfest on goose repo
+
+24/10/25
+
+I am back after my Laptop, phones, and other gadgets got stolen
