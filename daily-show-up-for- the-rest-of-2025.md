@@ -490,3 +490,7 @@ I am back after my Laptop, phones, and other gadgets got stolen
 27/10/25
 
 My 6th PR got merged for Hacktoberfest on Goose repository. 
+
+28/10/25
+
+I was assigned a new project to work on goose repo.
