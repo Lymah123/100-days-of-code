@@ -510,3 +510,9 @@ I started writing test for the second project for the Builder Fellow, Engineer a
 14/11/25
 
 Now back to tikv PR
+
+17/11/25
+
+Working on a clients(Fiverr) projects.
+- Payment integration
+- And website SEO
