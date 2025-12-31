@@ -544,3 +544,7 @@ I started on client project(Fiverr)
 23/12/25
 
 Worked on a client project
+
+31/12/25
+
+*2025*! What a year! Thank God for everything(Alhamdullilah). Looking forward to incredible 2026.
