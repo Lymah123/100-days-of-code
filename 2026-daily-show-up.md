@@ -13,3 +13,7 @@ I optimized my Fiverr account
 23/02/26
 
 - Showed up for GSoC preparation 
+
+25/02/26
+
+- Relearning Rust fundamentals and practicing Rustlings.
