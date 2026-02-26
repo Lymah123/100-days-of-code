@@ -17,3 +17,7 @@ I optimized my Fiverr account
 25/02/26
 
 - Relearning Rust fundamentals and practicing Rustlings.
+
+26/02/26
+
+- Practiced Rustlings exercises on Functions and solved 3 programming exercises from the chapter three of the 'The Rust Programming Book.' 
