@@ -20,4 +20,8 @@ I optimized my Fiverr account
 
 26/02/26
 
-- Practiced Rustlings exercises on Functions and solved 3 programming exercises from the chapter three of the 'The Rust Programming Book.' 
+- Practiced Rustlings exercises on Functions and solved 3 programming exercises from the chapter three of the 'The Rust Programming Book.'
+
+01/03/26
+
+- I got a response and task from a mentor from Nix org for GSoC application processing
