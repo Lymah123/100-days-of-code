@@ -25,3 +25,7 @@ I optimized my Fiverr account
 01/03/26
 
 - I got a response and task from a mentor from Nix org for GSoC application processing
+
+03/03/26
+
+- Submitted my first PR on the Nix repo and worked on the requested changes from the mentor.
