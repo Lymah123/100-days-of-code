@@ -37,3 +37,7 @@ I optimized my Fiverr account
 09/03/25
 
 - I spent the whole of today working on a client project.
+
+11/03/26
+
+- Working on the new issue the mentor opened for me on the NIX repo for GSoC organization preparation
