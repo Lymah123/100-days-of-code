@@ -41,3 +41,7 @@ I optimized my Fiverr account
 11/03/26
 
 - Working on the new issue the mentor opened for me on the NIX repo for GSoC organization preparation
+
+14/03/26
+
+- Started making research regarding GSoc proposal writing.
