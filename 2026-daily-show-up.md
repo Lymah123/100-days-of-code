@@ -45,3 +45,8 @@ I optimized my Fiverr account
 14/03/26
 
 - Started making research regarding GSoc proposal writing.
+
+23/03/26
+
+- Worked on GSoC proposal for Nix over the weekend and sent the draft to the mentor.
+- Continue contributing to statix repo.
