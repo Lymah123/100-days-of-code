@@ -50,3 +50,8 @@ I optimized my Fiverr account
 
 - Worked on GSoC proposal for Nix over the weekend and sent the draft to the mentor.
 - Continue contributing to statix repo.
+
+24/03/26
+
+- I worked on the reviewer's comments on statix repo PR.
+- Drafted Igalia application.
