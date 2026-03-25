@@ -55,3 +55,7 @@ I optimized my Fiverr account
 
 - I worked on the reviewer's comments on statix repo PR.
 - Drafted Igalia application.
+
+25/03/26
+
+- I got feedback from the mentor on the draft proposal.
