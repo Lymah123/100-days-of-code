@@ -59,3 +59,7 @@ I optimized my Fiverr account
 25/03/26
 
 - I got feedback from the mentor on the draft proposal.
+
+28/03/26
+
+- I completed my GSoC proposal for Nix/Statix
