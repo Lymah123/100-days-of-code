@@ -63,3 +63,7 @@ I optimized my Fiverr account
 28/03/26
 
 - I completed my GSoC proposal for Nix/Statix
+
+29/03/26
+
+- Submitted application for Igalia Coding experience
