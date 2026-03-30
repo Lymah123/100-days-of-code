@@ -67,3 +67,7 @@ I optimized my Fiverr account
 29/03/26
 
 - Submitted application for Igalia Coding experience
+
+30/03/26
+
+- Registered for Agentic SWARM Hackathon!
