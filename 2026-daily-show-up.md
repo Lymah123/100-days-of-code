@@ -75,3 +75,7 @@ I optimized my Fiverr account
 02/094/26
 
 - Preparing for Agentic SWARM Hackathon!
+
+03/04/26
+
+- Continue learning ahead Solana for Agentic SWARM Hackathon!
